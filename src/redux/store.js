@@ -43,6 +43,6 @@ function reducer(state, action) {
 
 const store = createStore(reducer, {
   todoItems: []
-});
+}, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
 
 export default store;
