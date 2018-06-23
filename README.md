@@ -26,3 +26,5 @@ You can also use [`yarn`](https://yarnpkg.com/lang/en/) instead of `npm`.
 * https://mobx.js.org/getting-started.html
 * https://github.com/mobxjs/mobx-state-tree
 * https://react-leaflet.js.org/
+* https://github.com/zalmoxisus/redux-devtools-extension
+* https://github.com/kolodny/immutability-helper
