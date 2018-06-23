@@ -3,6 +3,8 @@
 N3XTCODER + Fitogram  
 June 20, 2018 Cologne
 
+Presentation: https://docs.google.com/presentation/d/17V5WI5uc0_g2Kp4Absu8RcMeJVQo4kUeezLR4YzA7SE/edit?usp=sharing
+
 ## Get Started
 
 [Create React App](https://github.com/facebook/create-react-app) is a quickstart tool that simplifies setup of React projects.
